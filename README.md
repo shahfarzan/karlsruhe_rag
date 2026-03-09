@@ -37,7 +37,7 @@ pip install -r requirements.txt
 # Usage
 
 To ask a question about Karlsruhe:
-python src/query.py "Your question here"
+python query.py "Your question here"
 
 # Example Queries and Results 
 
