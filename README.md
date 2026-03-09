@@ -27,8 +27,13 @@ cd karlsruhe-rag
 
 # Setup virtual environment
 
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+1. Create Virtual Environment :
+Mac : python3 -m venv .venv
+Windows : python -m venv .venv
+
+3. Activate Environment :
+Mac : source .venv/bin/activate
+Windows: .venv\Scripts\activate
 
 # Install dependencies
 
